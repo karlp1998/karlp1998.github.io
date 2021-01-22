@@ -13,10 +13,13 @@ summary: A mid-term project for ICS 212
 For this project, I had to create a program that calculated the total amount of money someone has made over a year, taking into account state and/or federal taxes. Although this was a pretty simple program, writing in a new language was a bit hard at first, but overall we can benefit from learning new languages to develop our skills in Computer Science/Programming.
 
 #include <iostream>;
+	
 using namespace std;
 
 // Const values for federl and state taxes
+
 const double FEDERALTAX = .085;
+
 const double STATETAX = .145;
 
 double annualIncome() {
