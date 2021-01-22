@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/LoLpic.jpg
 title: League of Legends 
-permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
