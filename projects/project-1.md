@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/leagueoflegends.jpg
+image: images/LoLpic.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
