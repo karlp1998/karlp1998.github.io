@@ -1,25 +1,18 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/redridinghoodgamepic.jpg
+title: ICS 111 Mid-Term Project
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-01-21
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Video Games
+summary: A mini game we had to create for ICS 111 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/redridinghoodgamepic.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This was the first game I've coded using Java and Jason Leigh's EZ programming code. The requirements of the game was to have an object randomly teleport to a different spot on the screen as well as to be able to control a character with a game-pad and a score-tracker, and although I think the overall presentation of this project looks very poor as I used whatever I could find on google images, I feel that what's most important is that the code works as I intended it to in which you (the wolf) can eat catch little red riding hood as many times as possible before the time limit. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This was also a small introduction to AI's which I didn't really implement for my project, but I've been fascinated with AI's especially in video games because I've enjoyed playing games such as Dark Souls which is notoriously known for having hard boss battles.
