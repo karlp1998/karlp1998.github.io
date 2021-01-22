@@ -23,13 +23,21 @@ const double FEDERALTAX = .085;
 const double STATETAX = .145;
 
 double annualIncome() {
+
 	int jobs;
+	
 	double total = 0;
+	
 	double moneyMade;
+	
 	double fedTaxTotal;
+	
 	double stateTaxTotal;
+	
 	// Ask the user for the amount of jobs hey currently have
+	
 	cout << "Enter amount of jobs you currently have: " << endl;
+	
 	cin >> jobs; 
 
 	// I decided to use a for loop so it'll loop the same amount of times to the amount of jobs that the user has
