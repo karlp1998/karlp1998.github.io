@@ -68,6 +68,7 @@ double annualIncome() {
 }
 
 int main() {
+
 	annualIncome();
 
 	return 0;
