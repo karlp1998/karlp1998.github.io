@@ -6,7 +6,7 @@ title: League of Legends
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
-  - eSports
+  - Esports
 summary: I am currently on Manoa's LoL varsity team
 ---
 
