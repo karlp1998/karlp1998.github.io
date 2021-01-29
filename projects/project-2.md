@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/redridinghoodgamepic.jpg
 title: ICS 111 Mid-Term Project
+permalink: project/ics111project
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
