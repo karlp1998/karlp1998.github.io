@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Starting out with Javascript
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-29
+date: 2021-01-28
 labels:
   - Software Engineering
   - Learning
