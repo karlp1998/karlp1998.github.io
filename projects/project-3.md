@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/cpppic.jpg
 title: ICS 212 Project 
+permalink: projects/ics212project
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-21
 labels:
