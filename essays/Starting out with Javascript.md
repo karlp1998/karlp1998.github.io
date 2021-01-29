@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: Starting out with Javascript
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-29
+labels:
+  - Software Engineering
+  - Learning
+---
+
+
+
+
 Starting out with Javascript:
 
 I was honestly pretty excited to be learning a new language, as it gives us another opportunity to relearn the base essentials of coding in general. Although there are a lot of new key vocabulary to learn for this language, I found it a lot more fun than when first learning java in ICS 111, and I’d imagine it’s because we already have the basics of coding down such as knowing how arrays work, knowing how to set up for loops and the such, and when working on freecodecamp, it really helped a lot to better understand how to use this language efficiently.
