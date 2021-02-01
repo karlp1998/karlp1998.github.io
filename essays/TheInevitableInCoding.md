@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Time & Effort
+title: The Inevitable in Coding
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-28
 labels:
