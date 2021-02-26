@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: TransitionToWebDesigning
+title: Transition To Web Designing
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-25
 labels:
