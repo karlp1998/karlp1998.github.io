@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Sponge to Stone
+title: From Sponge to Stone
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
 labels:
