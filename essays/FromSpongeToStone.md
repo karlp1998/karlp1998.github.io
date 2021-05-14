@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Design Patterns
 ---
-<div class="ui large images">
+<div class="ui images" size="100px">
   <img class="ui image" src="../images/Stone_SpongeBob.jpg">
 </div>
 
