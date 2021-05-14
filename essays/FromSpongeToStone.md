@@ -8,6 +8,9 @@ labels:
   - Software Engineering
   - Design Patterns
 ---
+<div class="ui medium images">
+  <img class="ui image" src="../images/Stone_SpongeBob.jpg">
+</div>
 
 ## Functionality
 My high school Japanese teacher used to say an analogy about our brains that as a child, our brains would easily suck in information like a sponge, and as we get older, it would turn to stone which makes it harder to retain new information. A program built from the bottom-up is very much like how our brains function throughout our lives. It starts with a clean slate and an infinite amount of possible information to be stored in it, then once the program has a set way in working how it is intended, it would be very hard to completely change or make changes to the program without completely changing the intentions of what it’s original purpose was. It would also be very hard to make changes -- big or small -- to any of the functions, methods and classes that are intertwined with each other as changing or deleting a couple lines of code may end up not making any sense to the computer, as it wouldn’t to a brain -- it would be like losing memory to important information -- and then it would likely end up throwing errors. As for my understanding of design patterns, it is basically solving recurring problems for the benefit of future generations. Therefore, once a solution is set in stone, it should be likely depended on for generations to come. As the saying goes, “if it ain’t broke, don’t fix it.” However I can imagine it possible that any program can be made more optimal, which would just be adding bits -- not necessarily new -- of information on top of the info it already contains in its ‘brain’. 
