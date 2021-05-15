@@ -11,7 +11,7 @@ labels:
   - Semantic UI
 ---
 <div>
-<img class="ui medium image" src="../images/spiderweb.jpg">
+<img class="ui large centered image" src="../images/spiderweb.jpg">
 </div>
 
 ## Learning HTML & CSS
