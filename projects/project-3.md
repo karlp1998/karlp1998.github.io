@@ -12,6 +12,10 @@ labels:
   - Web Design/Development
 summary: A group project where we developed a web application
 ---
+## Grub-N-Go
+<div class="ui massive image">
+  <img class="ui image" src="../images/landing.PNG">
+</div>
 For this project, I had to create a program that calculated the total amount of money someone has made over a year, taking into account state and/or federal taxes. Although this was a pretty simple program, writing in a new language was a bit hard at first, but overall we can benefit from learning new languages to develop our skills in Computer Science/Programming.
 
 #include <iostream>;
