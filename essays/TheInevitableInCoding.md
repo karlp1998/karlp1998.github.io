@@ -10,7 +10,7 @@ labels:
   - Stack Overflow
 ---
 <div>
-  <img class="ui large centered image" src="../images/inevitable.jpg">
+  <img class="ui large centered image" src="../images/inevitable.png">
 </div>
 
 ## It is inevitable
