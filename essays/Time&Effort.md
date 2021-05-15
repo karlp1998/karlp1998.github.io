@@ -16,7 +16,7 @@ I've had to learn throughout my university life that the amount of time and effo
 
 ## Relating back to Programming
 
-Relating this back to coding is pretty simple, learning a programming language is tedious work and may not seem to make sense at first. It took me a while to understand arrays and for loops but just doing things over and over and on a consistent basis helped a lot to help further my knowledge in coding. I've learned that balancing time in my life to accomodate for time in studying programming has greatly helped me to learn new concepts and ideas that seemed like foreign language to me at first, so in the end, I feel like the time I put into learning different programming languages benefitted me greatly
+Relating this back to coding is pretty simple, learning a programming language is tedious work and may not seem to make sense at first. It took me a while to understand arrays and for loops but just doing things over and over and on a consistent basis helped a lot to help further my knowledge in coding. I've learned that balancing time in my life to accommodate for time in studying programming has greatly helped me to learn new concepts and ideas that seemed like foreign language to me at first, so in the end, I feel like the time I put into learning different programming languages benefited me greatly
 
 ## Conclusion
 
