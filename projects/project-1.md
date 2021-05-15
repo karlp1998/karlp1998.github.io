@@ -21,7 +21,7 @@ I'm hoping that this shows how committed I can be when trying to get better at s
 <div >
   <img class="ui large image" src="../images/lolstadium.jpg">
 </div>
-## Benefits
+## Benefits to CS
 I honestly didn't expect to learn as much as I have in terms of aspects that would benefit me academically or for computer science in general, but I was wrong. With League of Legends being a highly dependent team game, everyone needs to be on the same page as small mistakes can potentially lose you the game if you let it continuously build up. So by joining this collegiate esports team, a big skill we always continue to try to work on is communication and teamwork which is relevant to being a computer scienctist because it is important to collaborate and work well with other programmers especially when working on projects like creating and developing apps/games.
 
 
