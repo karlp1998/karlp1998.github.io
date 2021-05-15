@@ -12,7 +12,6 @@ labels:
   - Web Design/Development
 summary: A web application that allows users to view all available vendors on the UH Manoa campus.
 ---
-## Grub-N-Go
 <div class="ui massive image">
   <img class="ui image" src="../images/landing.PNG">
 </div>
