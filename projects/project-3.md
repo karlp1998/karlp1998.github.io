@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cpppic.jpg
+image: images/landing.PNG
 title: Grub-N-Go 
 permalink: projects/grubngo
 # All dates must be YYYY-MM-DD format!
