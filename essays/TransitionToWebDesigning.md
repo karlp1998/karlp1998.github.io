@@ -10,7 +10,7 @@ labels:
   - HTML & CSS
   - Semantic UI
 ---
-
+<img class="ui medium image" src="../images/spiderweb.jpg">
 ## Learning HTML & CSS
 Honestly, having to learn a new programming language and utilizing it in different ways such as with Javascript and functional programming was a bit overwhelming, given that the timeframe we had to learn each new topic was about a week. I will also admit that I still do not have Javascript completely figured out, and so I was not looking forward to learning a new language that has not much to do with what we have learned in past ICS classes, and instead has the main purpose of customizing the look and layout of webpages. I am personally not an artistic person at all, and having to learn a new language in which its purpose is to make a webpage as pretty and appealing as possible had me not looking forward to grasping this new topic and language as a whole. That being said, experiencing HTML and CSS was a bit of a nice break as grasping these new keywords and styles that the language had to offer was a lot simpler than I had expected. I also thought that the experience was really enjoyable and fun, and so getting to learn a better version of UI Design in Semantic UI, was just as fun as well.
 
