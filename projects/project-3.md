@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gnglogo.png
+image: images/GNGlogo.png
 title: Grub-N-Go 
 permalink: projects/grubngo
 # All dates must be YYYY-MM-DD format!
