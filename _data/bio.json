@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "game design",
+      "name": "game design/development",
       "keywords": [
       ]
     },
@@ -52,7 +52,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Web Design",
+        "Web Development"
       ]
     },
     {
@@ -74,6 +76,7 @@
         "ICS 111",
         "ICS 211",
         "ICS 212",
+        "ICS 311",
         "ICS 314"
       ]
     }
