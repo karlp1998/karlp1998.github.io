@@ -13,7 +13,7 @@ labels:
   <img class="ui massive centered image" src="../images/inevitable.png">
 </div>
 
-## It is inevitable
+## It is Inevitable
 It is inevitable when as a computer science student that you will get lost on the material and try to search for answers online rather than asking questions. The benefit of computer programming is that there are online communities that are actually ready, willing, and accessible to give you the help you need, but it is up to the learner on how they want to use these online resources to their advantage. If they are asking direct questions with the only answers having to be a direct one, would this benefit the student in the long run? With that, I will go into what I think makes a question a ‘good question.'
 
 ## 'Smart Questions' & Good Answers
